@@ -1,0 +1,41 @@
+@media (max-width: 376px) {
+  #offersforyoumaincard {
+    width: 21rem !important;
+    height: 25rem !important;
+  }
+}
+@media (max-width: 376px) {
+  .cardsdiv {
+    height: 29rem !important;
+  }
+}
+#offersforyoufont {
+  font-family: "Roboto", sans-serif;
+}
+.offersimages {
+  text-align: center;
+  padding: 5% 5% 5% 3%;
+
+  height: 200px;
+  width: 330px;
+  border-radius: 30px;
+}
+.cardtextofu {
+  text-align: justify;
+  color: white;
+  font-family: "Vidaloka", serif !important;
+}
+.cardtextofuu {
+  text-align: justify;
+  color: white;
+  font-family: "Roboto", sans-serif !important;
+}
+.Card {
+  border-radius: 20px;
+}
+#offersforyoumaincard {
+  background: #1d7874;
+  border: 1px solid #1d7874		;
+  width: 27rem;
+  margin: auto;
+}

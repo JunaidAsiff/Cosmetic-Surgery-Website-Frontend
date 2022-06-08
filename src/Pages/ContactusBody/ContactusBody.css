@@ -1,0 +1,114 @@
+.fullmain {
+  font-size: 20px;
+  line-height: 1.8;
+  font-weight: normal;
+  /* background: linear-gradient(-135deg, #c850c0, #4158d0); */
+  background: #1d7874		;
+  color: #666666;
+  text-align: left;
+  display: block;
+  box-sizing: border-box;
+}
+.ftco-section {
+  padding: 7em 0;
+}
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+#strongcuf{
+  color: white;
+
+}
+.col-lg-10 {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.no-gutters > [class*="col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.contact-wrap {
+  background: #272a34;
+}
+.contact-wrap h3 {
+  color: #fff;
+}
+#contactForm .form-control {
+  font-size: 16px;
+}
+.contactForm .form-control {
+  border: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  padding-top: 3%;
+  background: none;
+}
+textarea.form-control {
+  height: inherit !important;
+}
+#cussendmessage {
+  background: #f39422;
+  border-color: #f39422;
+  color: #fff;
+  margin-top: 5%;
+}
+.btn {
+  padding: 12px 16px;
+  border-width: 1px;
+  border-radius: 2px;
+  font-size: 18px;
+  font-weight: 400;
+  -moz-box-shadow: 0px 10px 20px -6px rgba(0, 0, 0, 0.12);
+  box-shadow: 0px 10px 20px -6px rgb(0 0 0 / 12%);
+  position: relative;
+  transition: 0.3s;
+}
+.submitting {
+  float: left;
+  width: 100%;
+  padding: 10px 0;
+  display: none;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.info-wrap h3 {
+  color: white;
+  font-size: 18px;
+  position: relative;
+}
+
+.info-wrap .dbox {
+  margin-bottom: 30px;
+}
+.info-wrap .dbox .icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #272A34;
+  margin-right: auto;
+}
+.info-wrap .dbox .icon span {
+  font-size: 20px;
+  color: #fff;
+}
+.info-wrap .dbox .text {
+  width: calc(100% - 70px);
+}
+.info-wrap .dbox p span {
+  font-weight: 400;
+  color: #fff;
+}
+.info-wrap .dbox p a {
+  color: rgba(255, 255, 255, 0.3);
+}
+#mb-4 {
+  color: rgba(255, 255, 255, 0.3);
+}

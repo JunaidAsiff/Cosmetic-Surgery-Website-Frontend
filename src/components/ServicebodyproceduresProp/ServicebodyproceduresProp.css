@@ -1,0 +1,46 @@
+#facialp {
+  color: #0c5d69;
+}
+#minflh3 {
+  color: black;
+}
+#starprize {
+  text-align: right;
+}
+#h3ratingstar {
+  color: gold;
+}
+#prize {
+  color: #0c5d69;
+}
+@media (max-width: 768px) {
+  #faceliftimage {
+    width: -webkit-fill-available;
+  }
+}
+@media (max-width: 992px) {
+  #faceliftimage {
+    width: -webkit-fill-available;
+  }
+}
+@media (max-width: 576px) {
+  #faceliftimage {
+    width: -webkit-fill-available;
+  }
+}
+#ppdivp {
+  font-size: large;
+  justify-content: center;
+}
+#divulsb {
+  display: flex;
+  justify-content: center;
+}
+
+#ulsb {
+  list-style: none;
+}
+
+#li:before {
+  content: "✓ ";
+}

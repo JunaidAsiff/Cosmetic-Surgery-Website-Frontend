@@ -1,0 +1,42 @@
+#crousal {
+  height: 600px;
+}
+
+.userhometext {
+  font-size: 30px;
+  color: black;
+}
+
+#contactushr {
+  color: gold;
+}
+
+#container {
+  margin-right: 15%;
+}
+#colpadding {
+  padding: 2%;
+}
+#img {
+  border-radius: 20px;
+}
+#getintouch {
+  font-size: 30px;
+}
+#coloricons {
+  color: white;
+  border: 1px double #a3e7e6;
+  padding: 4%;
+  border-radius: 10px;
+  border-width: thick;
+}
+#color {
+  color: white;
+}
+#picandformcontainer {
+  justify-content: center;
+}
+#sendmessage {
+  background: #13a2b7;
+  border: none;
+}

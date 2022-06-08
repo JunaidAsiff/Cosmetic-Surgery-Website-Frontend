@@ -1,0 +1,13 @@
+#maindiv {
+  padding: 8% 25%;
+  background-size: cover;
+}
+.bookapp {
+  background-color: #13a2b7;
+  border-radius: 20px;
+}
+.cardsdiv {
+  border: 1px double #13a2b7;
+  border-radius: 20px;
+  border-width: thick;
+}

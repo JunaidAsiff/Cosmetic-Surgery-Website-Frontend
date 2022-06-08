@@ -1,0 +1,26 @@
+#dropdown-basic-button {
+  width: 100%;
+  background: transparent;
+  color: black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+#drop {
+  width: 15rem;
+  background-color: darkcyan;
+  color: white;
+}
+.dropdown-menu.show {
+  background-color: black;
+  border-radius: 10px;
+}
+
+#bookapp {
+  border-color: #13a2b7;
+  background-color: #13a2b7;
+  border-radius: 10px;
+}
+#dropdownbuttonssb {
+  border: 1px solid black;
+}

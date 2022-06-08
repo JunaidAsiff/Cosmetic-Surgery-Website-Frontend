@@ -1,0 +1,55 @@
+@media (max-width: 377px) {
+  .insidecol{
+      margin-inline: 0px !important;
+  }
+  #map{
+      width:15rem !important;
+      margin-bottom: 10% !important;
+      border-radius: 20px;
+  }
+}
+ul li a , ul li{
+  color:darkturquoise;
+}
+#iconflcu , #welcomct , .h5 , .h2{
+  color: white;
+}
+footer {
+  height: fit-content;
+  background-color: #000f08	;
+  text-align: center;
+}
+.insidecol {
+  color: white;
+  display: inline-block;
+  text-align: justify;
+  margin-inline: 30px;
+}
+.outsidediv {
+  background-color: #000f08	;
+}
+.insidediv {
+  text-align: center;
+  padding: 2%;
+}
+#culi {
+  list-style: none;
+}
+strong {
+  font-size: x-large;
+}
+#iconbuttons {
+  background: none;
+  color: white;
+  border: 1px solid white;
+  font-size: 35px;
+  border-radius: 20px;
+  padding: 1%;
+  margin-inline: 1%;
+}
+#iconbuttons:hover {
+  background-color: rgb(147, 108, 35);
+}
+a {
+  text-decoration: none;
+}

@@ -1,0 +1,33 @@
+@media (max-width: 415px) {
+  #newscardmediascreen {
+    width: 10rem !important;
+  }
+}
+@media (max-width: 420px) {
+  #newscardimagemediascreen {
+    width: 120px !important;
+    height: 105px !important;
+  }
+}
+#newspagecardtitle {
+  color: #000f08;
+  font-family: "Vidaloka", serif;
+}
+#newspagecardtext {
+  color: #000f08;
+  font-family: "Roboto", sans-serif;
+}
+#newscardimagemediascreen {
+  height: 150px;
+  width: 215px;
+}
+#newscardmediascreen {
+  width: 18rem;
+  height: 25rem;
+  border-radius: 20px;
+}
+#newspagecardimage {
+  height: 15rem;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}

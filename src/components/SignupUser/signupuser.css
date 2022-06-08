@@ -1,0 +1,32 @@
+#signuphr {
+  color: gold;
+}
+.loginsu {
+  background-color: black;
+  height: 760px !important;
+  padding-top: 5%;
+}
+#strongsu{
+  color: rgb(136, 119, 20);
+}
+#signupForm {
+  border: 1px solid;
+  padding: 2%;
+  /* background-color: blue; */
+  /* background-image: url('bg.jpg'); */
+}
+
+.spanupuserlogin {
+  text-align: center;
+  color: white;
+}
+.strong {
+  color: white;
+  text-align: center;
+  font-family: monospace;
+  font-size: xxx-large;
+}
+.signinbutton {
+  color: white;
+  border-radius: 20px;
+}

@@ -1,0 +1,42 @@
+@media (max-width: 415px) {
+  #skincarecardsmedia {
+    width: 10rem !important;
+  }
+}
+@media (max-width: 376px) {
+  #gradient {
+    width: 15rem !important;
+    height: fit-content !important;
+    border-left-style: solid;
+  }
+}
+@media (max-width: 376px) {
+  #mediascreensc {
+    margin: 0% 20% 0% 0% !important;
+  }
+}
+@media (max-width: 376px) {
+  #gradient {
+    background-color: #1d7874	 !important;
+  }
+  #ct {
+    color: #000f08	;
+  }
+}
+#ct {
+  font-family: "Vidaloka", serif !important;
+}
+#sccdes {
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+#scctsub {
+  font-family: "Roboto", sans-serif !important;
+  color: white !important;
+}
+#skincarecardsmedia {
+  width: 18rem;
+  background: none;
+  border: 1px solid #1d7874		;
+  border-radius: 20px;
+}

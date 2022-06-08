@@ -1,0 +1,87 @@
+@media (max-width: 1200px) {
+  .loginuserform {
+    width: 50% !important;
+    height: fit-content;
+  }
+}
+@media (max-width: 768px) {
+  .loginuserform {
+    width: 50% !important;
+    height: fit-content;
+  }
+}
+@media (max-width: 576px) {
+  .loginuserform {
+    width: 70% !important;
+    height: fit-content;
+    padding:5% !important;
+    margin-top: 5%;
+  }
+}
+@media (max-width: 414px) {
+  .loginuserform {
+    width: 80% !important;
+    height: fit-content;
+    padding: 5% !important;
+    margin-top: 5%;
+  }
+}
+@media (max-width: 377px) {
+  .loginuserform  {
+    width: 90% !important;
+  }
+}
+@media (max-width: 768px) {
+  .mydiv {
+    padding: 6% 0% 0% 0% !important;
+  }
+}
+strong {
+  color: #EFC740
+}
+.loginuserform {
+  padding: 2%;
+  border-radius: 20px;
+  background: #000332;
+  width: 25%;
+  margin-inline: auto;
+}
+#userloginstrong {
+  font-size: 30px;
+}
+.spanuserlogin {
+  text-align: center;
+  color: white;
+}
+.strong {
+  color: white;
+  text-align: center;
+  font-family: monospace;
+  font-size: xxx-large;
+}
+.loginuserbutton {
+  color: white;
+  border-radius: 11px;
+  width: 70%;
+  background: #b08aae;
+  border: none;
+}
+#floatingInputCustom {
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+}
+#floatingPasswordCustom {
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+}
+
+.maindivloginuser {
+  /* background: linear-gradient(-135deg, #c850c0, #4158d0); */
+  background: #1d7874		;
+  height: 600px;
+}
+.mydiv {
+  padding: 2% 0% 0% 0%;
+}

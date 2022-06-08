@@ -1,0 +1,27 @@
+@media (max-width: 377px) {
+  #cbedms {
+    height: 18rem !important;
+  }
+  .cardsdivlower {
+    height: 20rem;
+  }
+}
+#expertdoccardmain {
+  background: #1d7874;
+  border-radius: 20px;
+}
+#cbedms {
+  height: 25rem;
+}
+#expdocct {
+  font-family: "Vidaloka", serif !important;
+}
+#expdocctext {
+  color: white;
+  font-family: "Roboto", sans-serif !important;
+}
+#cied {
+  height: 130px;
+  width: 150px;
+  border-radius: 20px;
+}

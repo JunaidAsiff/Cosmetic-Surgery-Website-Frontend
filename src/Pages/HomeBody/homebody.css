@@ -1,0 +1,234 @@
+@media (max-width: 1497px) {
+  .cardsdiv {
+    padding: 10% !important;
+    height: 75vh !important;
+  }
+}
+@media (max-width: 728px) {
+  .cardsdiv {
+    padding: 4% 8% 0 8% !important;
+    height: 55vh !important;
+  }
+}
+@media (max-width: 461px) {
+  .cardsdiv {
+    padding: 4% 15% 0% 8% !important;
+    height: 55vh !important;
+  }
+}
+@media (max-width: 461px) {
+  .wtaCard {
+    padding: 2% 0% 0 0% !important;
+    border: none;
+  }
+}
+@media (max-width: 461px) {
+  .cardsdivlower {
+    width: fit-content !important;
+  }
+}
+@media (max-width: 461px) {
+  #carouselcaption2 {
+    font-size: 15px !important;
+    font-weight: 500;
+  }
+}
+@media (max-width: 416px) {
+  .h3c1 {
+    font-size: 23px !important;
+  }
+  .h3c2 {
+    font-size: 23px !important;
+  }
+}
+@media (max-width: 376px) {
+  .h3c1 {
+    font-size: 20px !important;
+  }
+  .h3c2 {
+    font-size: 20px !important;
+  }
+  .h3c3 {
+    font-size: 18px !important;
+  }
+}
+@media (max-width: 376px) {
+  .p1 {
+    font-size: 15px !important;
+  }
+}
+@media (max-width: 377px) {
+  #whychooseus {
+    text-align: -webkit-left !important;
+  }
+}
+@media (max-width: 377px) {
+  .ourteamexpertstext {
+    text-align: -webkit-left !important;
+  }
+}
+@media (max-width: 377px) {
+  .ourteamexpertstext {
+    text-align: -webkit-left !important;
+  }
+}
+@media (max-width: 377px) {
+  #map {
+    width: auto !important;
+  }
+  #faderightcol {
+    padding: 1%;
+  }
+}
+#fontfamily {
+  font-family: "Roboto", sans-serif !important;
+}
+#requestconsult {
+  padding: "0% 5% 0% 5%";
+}
+
+#crousal {
+  height: 600px;
+}
+
+#cardtrans {
+  background: border-box;
+  width: "auto";
+  height: 100%;
+  border: none;
+}
+.userhometext {
+  font-size: 30px;
+  color: #000f08;
+}
+h2,
+h3 {
+  font-family: 'Vidaloka', serif !important;
+  color: white;
+  font-size: xxx-large;
+}
+.cardcenter {
+  text-align: center;
+}
+#hr {
+  color: #e65f5c	;
+  height: 3px;
+}
+#carouselmain {
+  border-radius: 15%;
+  overflow: hidden;
+}
+.carousel {
+  text-align: center;
+  padding: 2%;
+}
+
+.h3c1 {
+  font-size: 30px;
+}
+.h3c2 {
+  color: #000f08;
+  font-size: 30px;
+}
+.h3c3 {
+  color: white;
+  font-size: 30px;
+}
+.p1 {
+  font-family: 'Vidaloka', serif;
+  text-align: center;
+  font-size: x-large;
+}
+p {
+  text-align: justify;
+}
+.bookapp {
+  background-color: #1d7874	;
+  color: white;
+  border-radius: 20px;
+  width: max-content;
+}
+.consult {
+  color: white;
+}
+.cardsdiv {
+  border: 1px double #1d7874		;
+  border-radius: 20px;
+  padding: 10%;
+  height: auto;
+  border-width: thick;
+}
+.maindiv {
+  padding: 5%;
+}
+.atext {
+  color: #000f08;
+}
+.img {
+  border-radius: 20px;
+}
+.col {
+  justify-content: center;
+}
+.divheadings {
+  text-align: center;
+}
+.cardsdivlower {
+  /* border: 1px double #1d7874	; */
+  border-radius: 20px;
+  padding: 3% 3%;
+  margin: 20px;
+  border-width: thick;
+  height: 35vh;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#ourteam {
+  font-family: 'Vidaloka', serif !important; 
+  color: #000f08;
+  font-size: xxx-large;
+}
+#ournews {
+  font-family: 'Vidaloka', serif;
+  font-size: xxx-large;
+  color: #000f08;
+}
+.ourteamexpertstext {
+  text-align: center;
+  color: white;
+}
+#rowbelowcards {
+  justify-content: center;
+}
+#lowerimagecols {
+  margin: "auto";
+  width: "auto";
+}
+#lowerimgforborder {
+  border-radius: 10px;
+}
+#card1 {
+  display: flex;
+}
+#containerresponsive {
+  text-align: -webkit-center;
+}
+#gradient {
+  background: #1d7874	;
+  border-radius: 20px;
+}
+#colpadding {
+  padding: 5%;
+}
+#cardsubwelcome {
+  color: white;
+}
+#welcometoaestheticrightside {
+  border-left: solid #000f08	;
+  border-bottom: solid #000f08	;
+  background: #1d7874	;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
