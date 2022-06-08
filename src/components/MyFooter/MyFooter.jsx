@@ -19,7 +19,7 @@ import { Link } from "react-router-dom";
 
 function MyFooter() {
   useEffect(() => {
-    AOS.init({ duration: 1500 });
+    AOS.init({ duration: 2000 });
     AOS.refresh();
   }, []);
 

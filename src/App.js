@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="App">
 
-      {/* <MyHeader />
+      <MyHeader />
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/contact-us" element={<ContactusPage />} />
@@ -33,19 +33,14 @@ function App() {
         <Route path="/sign-me-up" element={<SignupUser />} />
         <Route path="/signin" element={<LoginUser />} />
         <Route path="/appointment" element={<AppointmentForm />} />
-
       </Routes>
-      <MyFooter /> */}
-
-
-
-<Error/>
-
+      <MyFooter />
 
 
 
     </div>
-  );
+
+);
 }
 
 export default App;
@@ -54,3 +49,8 @@ export default App;
 
 
 
+// <div>
+//   <Routes>
+//     <Route path="/*" element={<Error />} />
+//   </Routes>
+// </div>

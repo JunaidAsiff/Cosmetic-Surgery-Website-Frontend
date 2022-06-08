@@ -4,6 +4,15 @@
     height: 25rem !important;
   }
 }
+@media (max-width: 768px) {
+  #offersforyoumaincard {
+    width: 20rem !important;
+    height: 27rem !important;
+  }
+  .offersimages{
+    width: 100% !important;
+  }
+}
 @media (max-width: 376px) {
   .cardsdiv {
     height: 29rem !important;
@@ -35,7 +44,7 @@
 }
 #offersforyoumaincard {
   background: #1d7874;
-  border: 1px solid #1d7874		;
+  border: 1px solid #1d7874;
   width: 27rem;
   margin: auto;
 }
